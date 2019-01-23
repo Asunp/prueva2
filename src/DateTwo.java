@@ -1,7 +1,7 @@
 
 public class DateTwo {
     
-   private int day = 0;
+   private int day = 1;
    private int month = 0;
    private int year = 0;
     
